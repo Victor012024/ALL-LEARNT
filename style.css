@@ -72,7 +72,7 @@ body {
 /* Media Queries for Responsiveness */
 @media (max-width: 768px) {
   .carousel {
-    height: 50vh;
+    height: 100;
   }
   
   .carousel-button {
@@ -82,7 +82,7 @@ body {
 
 @media (max-width: 480px) {
   .carousel {
-    height: 40vh;
+    height: 100;
   }
   
   .carousel-button {
